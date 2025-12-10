@@ -26,7 +26,8 @@ Django polls website implementing models, views, templates, forms, and authentic
 ### Tech Stack <a id="tech-stack"></a>
 
 - **Language**: Python (recommendation: `Python 3.13+`)
-- **Libraries**: Django 6+, SQLite, 
+- **Libraries**: Django 6+, SQLite 
+- **Tools**: Git, Pycharm
 
 <!-- Features -->
 
