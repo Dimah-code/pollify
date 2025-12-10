@@ -10,14 +10,21 @@ git checkout -b feature/<short-description>
 
 3. Make your changes and add tests where applicable
 
-4. Commit:
+4. Run tests:
+```shell
+python3 manage.py test
+```
+
+5. Commit:
+
 ```sh
 git commit -m "feat: short description"
 ```
 
-5. Push: 
+6. Push:
+
 ```sh
 git push origin feature/<branch>
 ```
 
-6. Open a Pull Request
+7. Open a Pull Request
